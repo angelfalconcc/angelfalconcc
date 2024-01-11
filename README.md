@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]()
+  - [osTicket: Prerequisites and Installation](https://github.com/angelfalconcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration]()
   - [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
